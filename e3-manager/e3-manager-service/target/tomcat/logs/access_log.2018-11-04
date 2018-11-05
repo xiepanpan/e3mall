@@ -1,0 +1,4 @@
+0:0:0:0:0:0:0:1 - - [04/Nov/2018:17:17:47 +0800] "GET /page/login?redirect=http://localhost:8092/order/order-cart.html HTTP/1.1" 404 971 http-bio-8080-exec-1 390
+0:0:0:0:0:0:0:1 - - [04/Nov/2018:17:17:53 +0800] "GET /favicon.ico HTTP/1.1" 404 973 http-bio-8080-exec-3 16
+0:0:0:0:0:0:0:1 - - [04/Nov/2018:17:18:41 +0800] "GET /page/login?redirect=http://localhost:8092/order/order-cart.html HTTP/1.1" 404 971 http-bio-8080-exec-6 33
+0:0:0:0:0:0:0:1 - - [04/Nov/2018:17:19:22 +0800] "GET /page/login?redirect=http://localhost:8092/order/order-cart.html HTTP/1.1" 404 971 http-bio-8080-exec-8 10
